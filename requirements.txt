@@ -1,5 +1,5 @@
-pandas
-os
-datetime
-random
-smtplib
+import os
+import datetime
+import pandas
+import random
+import smtplib
